@@ -1,0 +1,33 @@
+{
+  "name": "workspace_angular_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrgredowski/gulp_playground_for_typescript.git"
+  },
+  "author": "Piotr Grędowski <piotrgredowski@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrgredowski/gulp_playground_for_typescript.git/issues"
+  },
+  "homepage": "https://github.com/piotrgredowski/gulp_playground_for_typescript.git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^2.1.0",
+    "typescript": "^2.4.2"
+  }
+}
